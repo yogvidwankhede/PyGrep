@@ -14,9 +14,9 @@ You can install PyGrep directly from the Visual Studio Code Marketplace.
 
 1.  Open the **Extensions** view in VS Code (`Ctrl+Shift+X`).
 2.  Search for `PyGrep`.
-3.  Click **Install** on the extension published by *Your Publisher Name*.
+3.  Click **Install** on the extension published by *Yogvid Wankhede*.
 
-Alternatively, you can [install it directly from the Marketplace website](YOUR_LINK_HERE).
+Alternatively, you can [install it directly from the Marketplace website]([YOUR_LINK_HERE](https://marketplace.visualstudio.com/items?itemName=yogvid.pygrep)).
 
 ---
 
