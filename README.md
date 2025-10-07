@@ -12,11 +12,13 @@ This project is a handcrafted regex engine that demonstrates the core principles
 
 You can install PyGrep directly from the Visual Studio Code Marketplace.
 
+**Option 1: In VS Code**
 1.  Open the **Extensions** view in VS Code (`Ctrl+Shift+X`).
 2.  Search for `PyGrep`.
-3.  Click **Install** on the extension published by *Yogvid Wankhede*.
+3.  Click **Install** on the extension published by *yogvid*.
 
-Alternatively, you can [install it directly from the Marketplace website]([https://marketplace.visualstudio.com/items?itemName=yogvid.pygrep]).
+**Option 2: From the Marketplace Website**
+You can also [install it directly from the Marketplace website](https://marketplace.visualstudio.com/items?itemName=yogvid.pygrep).
 
 ---
 
