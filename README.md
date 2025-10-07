@@ -6,7 +6,17 @@
 
 This project is a handcrafted regex engine that demonstrates the core principles of pattern matching, including parsing, backtracking, and state management for features like capture groups and backreferences.
 
+---
 
+## 🚀 Installation
+
+You can install PyGrep directly from the Visual Studio Code Marketplace.
+
+1.  Open the **Extensions** view in VS Code (`Ctrl+Shift+X`).
+2.  Search for `PyGrep`.
+3.  Click **Install** on the extension published by *Your Publisher Name*.
+
+Alternatively, you can [install it directly from the Marketplace website](YOUR_LINK_HERE).
 
 ---
 
